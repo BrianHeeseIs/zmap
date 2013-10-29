@@ -10,7 +10,7 @@
 #include <stdint.h>
 #include <netinet/ip.h>
 #include <netinet/tcp.h>
-#include <netinet/ether.h>
+#include "ether.h"
 #include <net/if.h>
 
 #include "types.h"
